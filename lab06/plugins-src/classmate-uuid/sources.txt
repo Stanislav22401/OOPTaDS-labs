@@ -1,0 +1,1 @@
+/home/move/projets/OOPTaDS-labs/OOPTaDS-labs/lab06/plugins-src/classmate-uuid/classmate/plugins/UuidTagXmlPipeline.java

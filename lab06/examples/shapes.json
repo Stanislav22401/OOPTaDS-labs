@@ -1,0 +1,10 @@
+{
+  "shapes": [
+    {"type": "Line", "x1": 50, "y1": 50, "x2": 200, "y2": 150},
+    {"type": "Rectangle", "x": 80, "y": 200, "width": 150, "height": 80},
+    {"type": "Ellipse", "x": 300, "y": 80, "width": 120, "height": 60},
+    {"type": "Triangle", "xPoints": [400, 500, 450], "yPoints": [200, 200, 120]},
+    {"type": "Square", "x": 250, "y": 250, "side": 70},
+    {"type": "Circle", "x": 500, "y": 300, "diameter": 90}
+  ]
+}
