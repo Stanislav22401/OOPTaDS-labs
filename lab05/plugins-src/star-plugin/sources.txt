@@ -1,0 +1,6 @@
+/home/move/projets/OOPTaDS-labs/OOPTaDS-labs/lab05/plugins-src/star-plugin/plugin/star/StarPlugin.java
+/home/move/projets/OOPTaDS-labs/OOPTaDS-labs/lab05/plugins-src/star-plugin/editing/StarPropertyEditor.java
+/home/move/projets/OOPTaDS-labs/OOPTaDS-labs/lab05/plugins-src/star-plugin/serialization/StarCodec.java
+/home/move/projets/OOPTaDS-labs/OOPTaDS-labs/lab05/plugins-src/star-plugin/tools/StarTool.java
+/home/move/projets/OOPTaDS-labs/OOPTaDS-labs/lab05/plugins-src/star-plugin/rendering/StarRenderer.java
+/home/move/projets/OOPTaDS-labs/OOPTaDS-labs/lab05/plugins-src/star-plugin/shapes/Star.java
