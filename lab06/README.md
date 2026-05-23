@@ -2,6 +2,8 @@
 
 Extends **lab 5** with the **Adapter** pattern for classmate-style plugins and two additional patterns used in the host application.
 
+**Подробное описание архитектуры, каталогов и файлов:** [ОПИСАНИЕ.md](ОПИСАНИЕ.md) (на русском).
+
 ## Lab 6 requirements
 
 | Requirement | Implementation |
